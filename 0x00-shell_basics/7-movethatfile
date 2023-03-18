@@ -1,1 +1,2 @@
-mv /tmp/betty /tmp/my_first_directory
+i!/bin/tmp
+mv -R tmpp/betty /tmp/my_first_directory
