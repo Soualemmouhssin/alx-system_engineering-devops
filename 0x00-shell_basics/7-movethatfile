@@ -1,2 +1,2 @@
-i!/bin/tmp
+#!/bin/bash
 mv -R tmpp/betty /tmp/my_first_directory
